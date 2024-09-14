@@ -1,0 +1,11 @@
+.container{
+  width: 400px;
+  border: 3px;
+  border-color: black;
+  display: inline-block;
+}
+.convertDist{
+  color: blue;
+  background-color: white;
+  width: 200px;
+}
